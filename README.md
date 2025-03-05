@@ -35,7 +35,6 @@ The following test cases are covered in this project:
 10. **And** I fill in the shipping details
 11. **And** I select a shipping method
 12. **And** I place the order
-13. **Then** I should see the order confirmation
 
 ## Prerequisites
 Before running the tests, ensure you have the following installed:
